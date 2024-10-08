@@ -1,2 +1,2 @@
 
-print("Hello world ich bin ein großer Arschloch")
+print("Hello world ich bin ein großer Arschloch und dumm")
