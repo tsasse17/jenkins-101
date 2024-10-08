@@ -8,6 +8,7 @@ pipeline {
             steps {
                 echo "Building.."
                 sh '''
+                python3 helloworld.py
                 cd myapp
                 '''
             }
